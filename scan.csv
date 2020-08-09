@@ -1,4 +1,4 @@
-date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,resting,alert,remarks
+date,time,segment,scan.no,obs.sp,obs.no,foraging,preening,locomotion,resting,alert,remarks
 19.12.19,12:48 PM,27,1,Eurasian Curlew,7,6,0,0,1,0,all species were spraded in the segment even during in every scan and even in the foraging period
 19.12.19,12:48 PM,27,1,Whimbrel,1,1,0,0,0,0,three crab collectors
 19.12.19,12:48 PM,27,1,Lesser Sand Plover,12,8,0,3,1,0,
@@ -35,14 +35,13 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 21.12.19,3:20 PM,9,6,Common Greenshank,1,1,0,0,0,0,
 21.12.19,3:20 PM,9,6,Common Redshank,3,3,0,0,0,0,
 21.12.19,3:20 PM,9,6,Eurasian Curlew,4,3,1,0,0,0,
-21.12.19,3:20 PM,9,6,Eurasian Curlew,3,3,3,0,0,0,
 28.12.19,7:50 AM,5,1,Kentish Plover,2,2,0,0,0,0,all species were spraded in the segment even during in every scan and even in the foraging period
 28.12.19,7:50 AM,5,1,Common Greenshank,2,2,0,0,0,0,
 28.12.19,7:50 AM,5,1,Eurasian Curlew,5,5,0,0,0,0,
 28.12.19,8:15 AM,5,2,Eurasian Curlew,11,11,0,0,0,0,
 28.12.19,8:15 AM,5,2,Common Redshank,2,2,0,0,0,0,
 28.12.19,8:15 AM,5,2,Common Greenshank,2,2,0,0,0,0,
-28.12.19,8:40 AM,5,3,Eurasian Curlew,8,5,2,0,2,0,"1 fishermen, 2 raptors (Brahminy kite)"
+28.12.19,8:40 AM,5,3,Eurasian Curlew,8,5,2,0,1,0,"1 fishermen, 2 raptors (Brahminy kite)"
 28.12.19,8:40 AM,5,3,Common Greenshank,2,2,0,0,0,0,
 28.12.19,8:40 AM,5,3,Common Redshank,3,3,0,0,0,0,
 28.12.19,9:05 AM,5,4,Eurasian Curlew,11,8,0,0,3,0,
@@ -99,7 +98,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 1.1.20,10:15 AM,16,3,Lesser Sand Plover,1,0,0,1,0,0,
 1.1.20,10:15 AM,16,3,Black-headed Ibis,10,5,0,4,1,0,
 1.1.20,10:45 AM,16,4,Lesser Sand Plover,8,3,0,2,3,0,"2 fishermen, 1 raptor, gulls"
-1.1.20,10:45 AM,16,4,Black-headed Ibis,5,0,0,0,0,0,
+1.1.20,10:45 AM,16,4,Black-headed Ibis,5,5,0,0,0,0,
 1.1.20,11:15 AM,16,5,Black-headed Ibis,15,12,0,2,1,0,gulls_49 ind.
 1.1.20,11:45 AM,16,6,Black-headed Ibis,11,8,3,0,0,0,gulls_64 ind.
 1.1.20,11:45 AM,16,6,Eurasian Curlew,2,2,0,0,0,0,
@@ -112,7 +111,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 2.1.20,11:42 AM,1,4,Lesser Sand Plover,9,0,0,9,0,0,"2 raptors, five fishermen, noise of trawler making"
 2.1.20,12:12 PM,1,5,Lesser Sand Plover,6,4,0,0,2,0,"2 raptors, nine fishermen"
 2.1.20,12:42 PM,1,6,Common Greenshank,1,0,0,0,1,0,
-2.1.20,12:42 PM,1,6,Lesser Sand Plover,9,0,0,0,0,0,9
+2.1.20,12:42 PM,1,6,Lesser Sand Plover,9,9,0,0,0,0,
 16.1.20,8:52 AM,162,1,Lesser Sand Plover,6,6,0,0,0,0,
 16.1.20,8:52 AM,162,1,Common Redshank,1,1,0,0,0,0,
 16.1.20,8:52 AM,162,1,Black-tailed Godwit,3,3,0,0,0,0,
@@ -191,7 +190,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 18.1.20,10:05 AM,160,1,Black-headed Ibis,1,1,0,0,0,0,
 18.1.20,10:05 AM,160,1,Eurasian Curlew,1,1,0,0,0,0,
 18.1.20,10:05 AM,160,1,Grey Plover,31,9,0,0,22,0,
-18.1.20,10:05 AM,160,1,Common Redshank,29,27,0,0,0,0,
+18.1.20,10:05 AM,160,1,Common Redshank,29,27,0,0,2,0,
 18.1.20,10:05 AM,160,1,Bar-tailed Godwit,1,1,0,0,0,0,
 18.1.20,10:05 AM,160,1,Common Greenshank,11,11,0,0,0,0,
 18.1.20,10:05 AM,160,1,Pied Avocet,5,4,0,0,1,0,
@@ -250,7 +249,6 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 20.1.20,1:20 PM,117,2,Grey Plover,1,1,0,0,0,0,
 20.1.20,1:20 PM,117,2,Eurasian Curlew,1,1,0,0,0,0,
 20.1.20,1:20 PM,117,2,Lesser Sand Plover,221,221,0,0,0,0,
-20.1.20,1:50 PM,117,3,Pied Avocet,20,6,0,0,14,0,
 20.1.20,1:50 PM,117,3,Black-headed Ibis,2,1,1,0,0,0,
 20.1.20,1:50 PM,117,3,Pied Avocet,25,10,2,0,13,0,
 20.1.20,1:50 PM,117,3,Curlew Sandpiper,1,1,0,0,0,0,
@@ -444,7 +442,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 2.2.20,11:45 AM,122,4,Common Redshank,3,3,0,0,0,0,
 2.2.20,11:45 AM,122,4,Terek Sandpiper,1,1,0,0,0,0,
 2.2.20,11:45 AM,122,4,Lesser Sand Plover,352,352,0,0,0,0,
-2.2.20,12:10 PM,122,5,Little Stint,34,27,0,0,9,0,
+2.2.20,12:10 PM,122,5,Little Stint,34,27,0,0,7,0,
 2.2.20,12:10 PM,122,5,Curlew Sandpiper,3,3,0,0,0,0,
 2.2.20,12:10 PM,122,5,Terek Sandpiper,1,1,0,0,0,0,
 2.2.20,12:10 PM,122,5,Common Redshank,2,2,0,0,0,0,
@@ -486,7 +484,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 4.2.20,1:15 PM,119,5,Common Redshank,6,6,0,0,0,0,
 4.2.20,1:45 PM,119,6,Curlew Sandpiper,7,3,0,0,4,0,
 4.2.20,1:45 PM,119,6,Broad-billed Sandpiper,12,7,0,0,5,0,
-4.2.20,1:45 PM,119,6,Little Stint,21,7,0,0,13,0,
+4.2.20,1:45 PM,119,6,Little Stint,21,7,0,0,14,0,
 4.2.20,1:45 PM,119,6,Dunlin,1,0,0,0,1,0,
 4.2.20,1:45 PM,119,6,Common Redshank,3,3,0,0,0,0,
 4.2.20,1:45 PM,119,6,Lesser Sand Plover,513,513,0,0,0,0,
@@ -533,7 +531,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 11.2.20,8:30 AM,12,3,Eurasian Curlew,3,2,0,0,1,0,
 11.2.20,8:30 AM,12,3,Common Redshank,3,3,0,0,0,0,
 11.2.20,8:30 AM,12,3,Black-headed Ibis,3,3,0,0,0,0,
-11.2.20,8:30 AM,12,3,Pacific Golden-Plover,31,3,3,0,21,0,
+11.2.20,8:30 AM,12,3,Pacific Golden-Plover,31,5,3,0,23,0,
 11.2.20,8:50 AM,12,4,Eurasian Curlew,3,3,0,0,0,0,
 11.2.20,8:50 AM,12,4,Common Redshank,2,2,0,0,0,0,
 11.2.20,8:50 AM,12,4,Black-headed Ibis,2,2,0,0,0,0,
@@ -689,7 +687,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 16.2.20,12:50 PM,154,6,Black-headed Ibis,6,6,0,0,0,0,
 16.2.20,12:50 PM,154,6,Black-tailed Godwit,3,3,0,0,0,0,
 16.2.20,12:50 PM,154,6,Lesser Sand Plover,22,22,0,0,0,0,
-17.2.20,11:00 AM,163,1,Lesser Sand Plover,145,,51,0,84,0,"Raptors (15), Fishermen (8), boat sound"
+17.2.20,11:00 AM,163,1,Lesser Sand Plover,145,10,51,0,84,0,"Raptors (15), Fishermen (8), boat sound"
 17.2.20,11:30 AM,163,2,0,0,0,0,0,0,0,"Raptors (15), Fishermen (8), boat sound"
 17.2.20,12:00 PM,163,3,Common Greenshank,3,2,0,0,1,0,"Raptors (15), Fishermen (8), boat sound"
 17.2.20,12:00 PM,163,3,Common Redshank,1,0,0,0,1,0,
@@ -701,7 +699,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 17.2.20,1:00 PM,163,5,Whimbrel,76,0,61,0,15,0,"Indian Skimmer (17 ind.), Raptors (11)"
 17.2.20,1:00 PM,163,5,Black-tailed Godwit,4,0,0,0,4,0,
 17.2.20,1:00 PM,163,5,Ruff,1,0,1,0,0,0,
-17.2.20,1:30 PM,163,6,Whimbrel,81,0,8,0,77,0,Indian Skimmer (1506 ind.)
+17.2.20,1:30 PM,163,6,Whimbrel,81,0,8,0,73,0,Indian Skimmer (1506 ind.)
 17.2.20,1:30 PM,163,6,Black-tailed Godwit,27,0,0,23,4,0,
 17.2.20,1:30 PM,163,6,Common Greenshank,1,0,0,0,1,0,
 17.2.20,1:30 PM,163,6,Ruff,1,0,0,1,0,0,
@@ -724,7 +722,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 18.2.20,1:30 PM,151,4,Grey Plover,16,0,0,0,16,0,
 18.2.20,1:30 PM,151,4,Black-tailed Godwit,78,78,0,0,0,0,
 18.2.20,1:30 PM,151,4,Whimbrel,2,0,0,0,2,0,
-18.2.20,1:30 PM,151,4,Common Redshank,1,0,0,0,0,0,
+18.2.20,1:30 PM,151,4,Common Redshank,1,1,0,0,0,0,
 18.2.20,2:00 PM,151,5,Eurasian Curlew,2,2,0,0,0,0,Indian Skimmer (splitted into three groups- 250+1300+1000ind.)
 18.2.20,2:00 PM,151,5,Black-tailed Godwit,62,62,0,0,0,0,
 18.2.20,2:00 PM,151,5,Grey Plover,1,1,0,0,0,0,
@@ -735,9 +733,9 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 19.2.20,1:00 PM,4,1,Eurasian Curlew,3,3,0,0,0,0,"7 fishermen, 1 brahminy"
 19.2.20,1:30 PM,4,2,Eurasian Curlew,1,1,0,0,0,0,"7 fishermen, 6 brahminy, 1 spotted eagle were hovering"
 19.2.20,2:00 PM,4,3,0,0,0,0,0,0,0,"7 fishermen, 6 brahminy, 1 spotted eagle were hovering"
-19.2.20,2:30 PM,4,4,Eurasian Curlew,1,0,0,0,0,0,"7 fishermen, 6 brahminy, 1 spotted eagle were hovering"
+19.2.20,2:30 PM,4,4,Eurasian Curlew,1,1,0,0,0,0,"7 fishermen, 6 brahminy, 1 spotted eagle were hovering"
 19.2.20,3:00 PM,4,5,0,0,0,0,0,0,0,10 raptors with 9 fishermen
-19.2.20,3:30 PM,,6,0,0,0,0,0,0,0,10 raptors with 9 fishermen
+19.2.20,3:30 PM,4,6,0,0,0,0,0,0,0,10 raptors with 9 fishermen
 3.3.20,10:35 AM,27,1,Black-tailed Godwit,672,669,3,0,0,0,wind flow was very high and godwits were foraging in a group way (some were in small pockets of group and some were forgaing in individual format)
 3.3.20,10:35 AM,27,1,Pied Avocet,3,0,0,0,3,0,
 3.3.20,10:35 AM,27,1,Eurasian Curlew,2,2,0,0,0,0,
@@ -834,12 +832,12 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 12.3.20,9:30 AM,16,5,Black-headed Ibis,10,10,0,0,0,0,
 12.3.20,10:00 AM,16,6,Black-headed Ibis,10,10,0,0,0,0,
 12.3.20,10:00 AM,16,6,Eurasian Curlew,3,0,1,1,1,0,
-7.3.20,1:00 PM,1,1,Indian Thick-knee,2,0,0,0,2,0,
+7.3.20,1:00 PM,1,1,Great Thick-knee,2,0,0,0,2,0,
 7.3.20,1:00 PM,1,1,Common Redshank,18,18,0,0,0,0,all species were spraded in the segment even during in every scan and even in the foraging period
 7.3.20,1:00 PM,1,1,Whimbrel,1,1,0,0,0,0,
 7.3.20,1:00 PM,1,1,Grey Plover,32,2,0,0,30,0,
 7.3.20,1:00 PM,1,1,Common Greenshank,2,0,0,0,2,0,
-7.3.20,1:30 PM,1,2,Indian Thick-knee,2,0,2,0,0,0,
+7.3.20,1:30 PM,1,2,Great Thick-knee,2,0,2,0,0,0,
 7.3.20,1:30 PM,1,2,Common Greenshank,3,3,0,0,0,0,
 7.3.20,1:30 PM,1,2,Common Redshank,5,5,0,0,0,0,
 7.3.20,1:30 PM,1,2,Grey Plover,39,2,0,0,37,0,
@@ -854,7 +852,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 7.3.20,2:00 PM,1,3,Common Greenshank,4,4,0,0,0,0,
 7.3.20,2:00 PM,1,3,Lesser Sand Plover,19,19,0,0,0,0,
 7.3.20,2:00 PM,1,3,Eurasian Curlew,2,2,0,0,0,0,
-7.3.20,2:00 PM,1,3,Indian Thick-knee,2,0,0,0,2,0,
+7.3.20,2:00 PM,1,3,Great Thick-knee,2,0,0,0,2,0,
 7.3.20,2:00 PM,1,3,Whimbrel,1,0,0,0,1,0,
 7.3.20,2:30 PM,1,4,Common Redshank,32,32,0,0,0,0,
 7.3.20,2:30 PM,1,4,Kentish Plover,2,0,0,0,2,0,
@@ -862,16 +860,16 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 7.3.20,2:30 PM,1,4,Eurasian Curlew,2,2,0,0,0,0,
 7.3.20,2:30 PM,1,4,Pacific Golden-Plover,6,0,0,0,6,0,
 7.3.20,2:30 PM,1,4,Grey Plover,7,7,0,0,0,0,
-7.3.20,2:30 PM,1,4,Indian Thick-knee,2,0,0,0,2,0,
+7.3.20,2:30 PM,1,4,Great Thick-knee,2,0,0,0,2,0,
 7.3.20,2:30 PM,1,4,Temminck's Stint,3,3,0,0,0,0,
 7.3.20,3:00 PM,1,5,Pacific Golden-Plover,2,2,0,0,0,0,
 7.3.20,3:00 PM,1,5,Grey Plover,1,1,0,0,0,0,
 7.3.20,3:00 PM,1,5,Temminck's Stint,2,2,0,0,0,0,
-7.3.20,3:00 PM,1,5,Indian Thick-knee,2,0,0,0,2,0,
+7.3.20,3:00 PM,1,5,Great Thick-knee,2,0,0,0,2,0,
 7.3.20,3:00 PM,1,5,Common Redshank,27,27,0,0,0,0,
 7.3.20,3:30 PM,1,6,Common Redshank,28,28,0,0,0,0,
 7.3.20,3:30 PM,1,6,Pacific Golden-Plover,4,4,0,0,0,0,
-7.3.20,3:30 PM,1,6,Indian Thick-knee,2,0,0,0,2,0,
+7.3.20,3:30 PM,1,6,Great Thick-knee,2,0,0,0,2,0,
 7.3.20,3:30 PM,1,6,Lesser Sand Plover,3,3,0,0,0,0,
 7.3.20,3:30 PM,1,6,Temminck's Stint,3,3,0,0,0,0,
 7.3.20,3:30 PM,1,6,Black-headed Ibis,1,1,0,0,0,0,
@@ -1017,7 +1015,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 14.3.20,8:00 AM,23,1,Black-tailed Godwit,452,452,0,0,0,0,some of them were spraded and some of them were in a cluster of groups
 14.3.20,8:00 AM,23,1,Grey Plover,3,3,0,0,0,0,
 14.3.20,8:00 AM,23,1,Eurasian Curlew,1,1,0,0,0,0,
-14.3.20,8:00 AM,23,1,Kentish Plover,61,10,0,0,11,0,
+14.3.20,8:00 AM,23,1,Kentish Plover,21,10,0,0,11,0,
 14.3.20,8:30 AM,23,2,Grey Plover,2,2,0,0,0,0,
 14.3.20,8:30 AM,23,2,Common Redshank,1,1,0,0,0,0,
 14.3.20,8:30 AM,23,2,Pied Avocet,3,3,0,0,0,0,
@@ -1057,7 +1055,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 16.3.20,11:00 AM,158,4,Eurasian Curlew,3,2,0,0,1,0,
 16.3.20,11:30 AM,158,5,Black-tailed Godwit,61,61,0,0,0,0,
 16.3.20,11:30 AM,158,5,Lesser Sand Plover,28,28,0,0,0,0,
-16.3.20,11:30 AM,158,5,Eurasian Curlew,3,2,0,0,0,0,
+16.3.20,11:30 AM,158,5,Eurasian Curlew,3,2,0,0,1,0,
 16.3.20,11:30 AM,158,5,Common Redshank,11,11,0,0,0,0,
 16.3.20,12:00 PM,158,6,Black-tailed Godwit,25,25,0,0,0,0,
 16.3.20,12:00 PM,158,6,Lesser Sand Plover,3,3,0,0,0,0,
@@ -1306,7 +1304,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 24.3.20,11:30 AM,118,6,Pied Avocet,3,3,0,0,0,0,
 21.3.20,1:20 PM,12,1,0,0,0,0,0,0,0,
 21.3.20,1:50 PM,12,2,Eurasian Curlew,4,3,0,1,0,0,
-21.3.20,1:50 PM,12,2,Black-headed Ibis,1,0,0,0,0,0,
+21.3.20,1:50 PM,12,2,Black-headed Ibis,1,1,0,0,0,0,
 21.3.20,2:20 PM,12,3,Eurasian Curlew,3,2,0,0,1,0,
 21.3.20,2:20 PM,12,3,Common Redshank,3,3,0,0,0,0,
 21.3.20,2:20 PM,12,3,Black-headed Ibis,3,3,0,0,0,0,
@@ -1319,7 +1317,7 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 21.3.20,2:50 PM,12,4,Kentish Plover,3,3,0,0,0,0,
 21.3.20,3:20 PM,12,5,Eurasian Curlew,4,2,0,0,2,0,
 21.3.20,3:20 PM,12,5,Common Redshank,2,2,0,0,0,0,
-21.3.20,3:20 PM,12,5,Black-headed Ibis,2,2,0,0,2,0,
+21.3.20,3:20 PM,12,5,Black-headed Ibis,4,2,0,0,2,0,
 21.3.20,3:20 PM,12,5,Grey-headed Lapwing,2,0,0,0,2,0,
 21.3.20,3:20 PM,12,5,Common Sandpiper,2,2,0,0,0,0,
 21.3.20,3:20 PM,12,5,Kentish Plover,3,2,0,0,1,0,
@@ -1496,8 +1494,8 @@ date,time,segment,replicate.no,obs.sp,obs.no,foraging,preening,locomotion,restin
 18.3.20,12.00 PM,163,3,Black-headed Ibis,9,9,0,0,0,0,
 18.3.20,12.00 PM,163,3,Black-tailed Godwit,5,5,0,0,0,0,
 18.3.20,12.00 PM,163,3,Common Redshank,7,7,0,0,0,0,
-18.3.20,12.00 PM,163,3,Whimbrel,3,1,0,0,0,0,
-18.3.20,12.00 PM,163,3,Great Knot,1,3,0,0,0,0,
+18.3.20,12.00 PM,163,3,Whimbrel,3,3,0,0,0,0,
+18.3.20,12.00 PM,163,3,Great Knot,1,1,0,0,0,0,
 18.3.20,12.00 PM,163,3,Lesser Sand Plover,9,9,0,0,0,0,
 18.3.20,12:30 PM,163,4,Black-headed Ibis,16,16,0,0,0,0,
 18.3.20,12:30 PM,163,4,Common Redshank,22,22,0,0,0,0,
