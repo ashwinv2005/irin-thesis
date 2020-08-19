@@ -29,3 +29,5 @@ abline(lm(data$abund.others~data$worms))
 with(data,plot(total.abund~dryweight))
 summary(lm(data$total.abund~data$dryweight))
 abline(lm(data$total.abund~data$dryweight))
+
+

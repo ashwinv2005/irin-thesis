@@ -3,6 +3,9 @@ library(vegan)
 
 scan = read.csv("scan.csv")
 sediment = read.csv("sediment_weight.csv")
+pref = read.csv("sp_food.csv")
+isl = read.csv("seg_islands.csv")
+
 
 specs = unique(scan$obs.sp)
 specs = specs[specs != 0]
@@ -205,6 +208,16 @@ data_seg = left_join(data_seg,sediment)
 #names(data_seg_high) = str_replace_all(names(data_seg_high), c(" " = "." , "," = "" ))
 
 forage_data_seg = left_join(forage,data_seg)
+
+data_rep = left_join(data_rep,pref)
+forage_data_rep = left_join(forage_data_rep,pref)
+data_seg = left_join(data_seg,pref)
+forage_data_seg = left_join(forage_data_seg,pref)
+
+data_rep = left_join(data_rep,isl)
+forage_data_rep = left_join(forage_data_rep,isl)
+data_seg = left_join(data_seg,isl)
+forage_data_seg = left_join(forage_data_seg,isl)
 
 write.csv(data_rep,"data_rep.csv",row.names = F)
 write.csv(forage_data_rep,"forage_data_rep.csv",row.names = F)
