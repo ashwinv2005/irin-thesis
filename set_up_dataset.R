@@ -219,6 +219,42 @@ forage_data_rep = left_join(forage_data_rep,isl)
 data_seg = left_join(data_seg,isl)
 forage_data_seg = left_join(forage_data_seg,isl)
 
+data_rep$worms = ceiling(data_rep$worms*10000/600)
+data_rep$crabs = ceiling(data_rep$crabs*10000/600)
+data_rep$mollusks = ceiling(data_rep$mollusks*10000/600)
+data_rep$fishfry = ceiling(data_rep$fishfry*10000/600)
+data_rep$food.abund = ceiling(data_rep$food.abund*10000/600)
+
+forage_data_rep$worms = ceiling(forage_data_rep$worms*10000/600)
+forage_data_rep$crabs = ceiling(forage_data_rep$crabs*10000/600)
+forage_data_rep$mollusks = ceiling(forage_data_rep$mollusks*10000/600)
+forage_data_rep$fishfry = ceiling(forage_data_rep$fishfry*10000/600)
+forage_data_rep$food.abund = ceiling(forage_data_rep$food.abund*10000/600)
+
+data_seg$worms = ceiling(data_seg$worms*10000/600)
+data_seg$crabs = ceiling(data_seg$crabs*10000/600)
+data_seg$mollusks = ceiling(data_seg$mollusks*10000/600)
+data_seg$fishfry = ceiling(data_seg$fishfry*10000/600)
+data_seg$food.abund = ceiling(data_seg$food.abund*10000/600)
+
+forage_data_seg$worms = ceiling(forage_data_seg$worms*10000/600)
+forage_data_seg$crabs = ceiling(forage_data_seg$crabs*10000/600)
+forage_data_seg$mollusks = ceiling(forage_data_seg$mollusks*10000/600)
+forage_data_seg$fishfry = ceiling(forage_data_seg$fishfry*10000/600)
+forage_data_seg$food.abund = ceiling(forage_data_seg$food.abund*10000/600)
+
+data_seg$total.count = data_seg$total.count/6
+data_seg$total.abund = data_seg$total.abund/6
+
+data_rep$total.count = data_rep$total.count/6
+data_rep$total.abund = data_rep$total.abund/6
+
+forage_data_seg$total.count = forage_data_seg$total.count/6
+forage_data_seg$total.abund = forage_data_seg$total.abund/6
+
+forage_data_rep$total.count = forage_data_rep$total.count/6
+forage_data_rep$total.abund = forage_data_rep$total.abund/6
+
 write.csv(data_rep,"data_rep.csv",row.names = F)
 write.csv(forage_data_rep,"forage_data_rep.csv",row.names = F)
 write.csv(data_seg,"data_seg.csv",row.names = F)
